@@ -1,0 +1,13 @@
+Launching defaultServer (WebSphere Application Server 20.0.0.11/wlp-1.0.46.cl201120201014-1215) on Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_251-b08 (en_US)
+[AUDIT   ] CWWKE0001I: The server defaultServer has been launched.
+[AUDIT   ] CWWKE0100I: This product is licensed for development, and limited production use. The full license terms can be viewed here: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/license/base_ilan/ilan/20.0.0.11/lafiles/en.html
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://ibmcloudpaks:9080/
+[AUDIT   ] CWWKZ0001I: Application javalibertywebapp started in 0.321 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [jaxrs-2.0, jaxrsClient-2.0, json-1.0, servlet-3.1].
+[AUDIT   ] CWWKF0011I: The defaultServer server is ready to run a smarter planet. The defaultServer server started in 2.358 seconds.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Friday, November 6, 2020 at 3:08 PM. The server defaultServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://ibmcloudpaks:9080/
+[AUDIT   ] CWWKZ0009I: The application javalibertywebapp has stopped successfully.
+[AUDIT   ] CWWKE0036I: The server defaultServer stopped after 3.93 seconds.

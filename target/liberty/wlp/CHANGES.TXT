@@ -1,0 +1,18 @@
+OLGH12312 Update to commons daemon breaks windows servicel
+OLGH13861 Getting ManagedThreadFactory from JNDI is failing in 20.0.0.9
+OLGH14183 Need an option to load a custom JaasLoginModule without going through com.ibm.ws.kernel.boot.security.LoginModuleProxy
+PH26177 API DISCOVERY UI FAILS
+PH27497 CNTR5010E,CNTR0075E Errors after migrating from WebSphere V8.5.5.X TO V9.0.5.X
+PH27912 CNTR5104E OR CNTR5102E occurs at EJB start after upgrading WebSphere to V8.5.5.16, V9.0.5.0, V9.0.5.1, OR V9.0.5.2
+PH29578 CWWKE0701E: FRAMEWORKEVENT ERROR ORG.OSGI.FRAMEWORK.SERVICEEXCEPTION
+PH29942 VULNERABILITY IN HIBERNATE VALIDATOR AFFECTS WEBSPHERE APPLICATION SERVER LIBERTY (CVE-2020-10693)
+PH30494 NullPointerException is received when using the PasswordChange API with more than one UserRegistry
+OLGH7056 HTTP/1.1 and HTTP/2 behave differently when a non-standard HTTP method is used
+OLGH12724 Unable to Override JAX-RS SecurityContext in ContainerRequestFilter
+OLGH13073 FFDC raised when fallback method or handler throws exception
+OLGH13830 Federated repositories returns the string "null" instead of the value null for several methods
+OLGH13908 Liberty java security function does not honor JDK's java.policy file.
+OLGH14003 Test Failure: com.ibm.ws.microprofile.health20.fat.ApplicationStateHealthCheckTest.testPreLoadedApplicationsHealthCheckTest_mpHealth-3.0
+OLGH14192 Eclipselink: Wrong month is returned if OffsetDateTime is used in JPA 2.2 code
+OLGH14377 Server.xml config sources do not respect config_ordinal
+OLGH14421 EJB persistent timer may attempt to run after server stop issued
