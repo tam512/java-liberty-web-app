@@ -2,7 +2,7 @@
 applications:
 - instances: 1
   timeout: 180
-  name: javalibertywebapp03
+  name: javalibertywebapp0323
   buildpacks: 
   - liberty-for-java
   path: ./target/javalibertywebapp-1.0-SNAPSHOT.war
